@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">proekt-ap</string>
+    <string name="login">Login!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q1">Question 1</string>
+    <string name="q2">Question 2</string>
+    <string name="q3">Question 3</string>
+    <string name="input_answer">Enter the answers, separating each answer with a new line (ENTER)</string>
+</resources>
